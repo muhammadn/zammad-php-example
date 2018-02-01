@@ -13,8 +13,7 @@
   $ticket_text = 'API test ticket';
   $ticket_data = [
       'title'       => $ticket_text,
-      'customer'    => 'customer_email@address.com
-',
+      'customer'    => 'customer_email@address.com',
       'group'       => 'Users',
       'article'     => [
           'subject' => $ticket_text,
